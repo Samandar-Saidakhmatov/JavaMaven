@@ -30,7 +30,5 @@ public class Runner {
         System.out.println("Sorting cars by fuel consumption: \n" + taxiStation.getSortByFuelConsumptionOfCar().toString()+"\n");
         System.out.print("Find car by parameters of speed. Input car's speed: ");
         System.out.println(taxiStation.getCarByParameterOfSpeedInDiapason());
-
-
     }
 }
